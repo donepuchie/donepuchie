@@ -51,5 +51,3 @@ This repository showcases the work and projects of [Chinemerem Don-Epuchie](http
 ## Contact
 
 - LinkedIn: [Chinemerem Don-Epuchie](https://www.linkedin.com/in/don-epuchie/)
-
-https://www.credly.com/badges/fc62dc4f-cc40-4af7-aec0-bc7243c64333
