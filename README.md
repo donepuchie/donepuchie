@@ -31,11 +31,15 @@ This repository showcases the work and projects of [Chinemerem Don-Epuchie](http
 
 ### Imbod, Cloud Engineer (june 2023 – Present)
 
-- Streamlined operations by automating routine tasks using Python and Bash scripts reducing manual effort with tool configurations for stacks and stack instances
-- Implemented infrastructure as code solutions with Terraform and Ansible, accelerating deployment times, Building small, simple pieces that can be changed independently
-- Managed robust CI/CD pipelines utilizing GitHub actions, ansible, and cloud run resulting in fewer deployment errors and reduced configuration drift which may lead to snowflake systems
-- Orchestrated automated testing, build, and deployment workflows to ensure seamless software delivery, collaborating effectively within cross-functional teams.
-
+- Deployed and managed applications on Kubernetes using kubectl to inspect cluster resources and perform operations such as creating, updating, and deleting components
+- Created internal documentation on Backstage.io, fostering cross-team collaboration and improving operational workflows.
+- Optimized Kubernetes infrastructure, reducing node instances by 57% through k6 load tests, resulting in significant cost savings.
+- Led the migration of on-prem PostgreSQL databases to CloudSQL, improving latency by 20% and system performance.
+- Streamlined post-deployment activities and system monitoring with custom Python scripts, increasing
+operational efficiency.
+- Automated CI/CD pipelines using GitHub Actions, integrating builds, artifact storage in Artifact Registry,and deployments with no manual intervention.
+- Automated Kubernetes deployments with advanced rollout strategies, ensuring container orchestration stability and scalability.
+- Automated infrastructure provisioning and project structuring with Terraform and Terraform modules, increasing deployment efficiency by 20%.
 
 ## Education
 
