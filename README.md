@@ -25,8 +25,3 @@ Lead team lead at DevOpsCorp.
 
 [![Google Cloud Certified Professional Cloud Security Engineer](https://img.shields.io/badge/-GCP%20Security%20Engineer-orange)](https://www.credly.com/badges/d4198963-a740-4b12-b970-63c8512e4f1f)
 [![Google Cloud Certified Associate Cloud Engineer](https://img.shields.io/badge/-GCP%20Cloud%20Engineer-yellow)](https://www.credly.com/badges/fc62dc4f-cc40-4af7-aec0-bc7243c64333)
-
-
-## Contact
-
-- LinkedIn: [Chinemerem Don-Epuchie](https://www.linkedin.com/in/don-epuchie/)
