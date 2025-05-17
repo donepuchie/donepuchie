@@ -2,30 +2,6 @@
 
 Welcome to the `donepuchie` repository!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/don-epuchie/)
-
-This repository showcases the work and projects of [Chinemerem Don-Epuchie](https://www.linkedin.com/in/cos-ibe/) in the field of Cloud Engineering, Infrastructure, and more. Here you'll find a collection of skills, professional experience, and projects that demonstrate my expertise and capabilities.
-
-## Table of Contents
-
-- [Skills](#skills)
-- [Professional Experience](#professional-experience)
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
-
-## Skills
-
-- Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure
-- Infrastructure as Code: Terraform, Ansible
-- CI/CD Tools: Jenkins, GitLab
-- Containerization: Docker, Kubernetes
-- Scripting Languages: Python, bash
-- Monitoring/Logging: Prometheus, ELK stack
-- Databases: Redis
-- Operating Systems: Linux
-
-
 ## "Professional Experience"
 
 Director of dynamic orchestration for distributed systems deployment and telemetry analysis as it applies to heuristic team integration and efficient infrastructure design practices through the Open Delivery Foundation. Former head of configuration minutiae at the Global Foundation of Situational Infrastructure Dependence and Declarative Pipeline Analysis.
