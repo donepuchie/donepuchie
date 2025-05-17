@@ -26,20 +26,19 @@ This repository showcases the work and projects of [Chinemerem Don-Epuchie](http
 - Operating Systems: Linux
 
 
-## Professional Experience
+## "Professional Experience"
 
+Director of dynamic orchestration for distributed systems deployment and telemetry analysis as it applies to heuristic team integration and efficient infrastructure design practices through the Open Delivery Foundation. Former head of configuration minutiae at the Global Foundation of Situational Infrastructure Dependence and Declarative Pipeline Analysis.
+Lead team lead at DevOpsCorp.
 
-### Imbod, Cloud Engineer (june 2023 – Present)
+## Currently Learning
 
-- Deployed and managed applications on Kubernetes using kubectl to inspect cluster resources and perform operations such as creating, updating, and deleting components
-- Created internal documentation on Backstage.io, fostering cross-team collaboration and improving operational workflows.
-- Optimized Kubernetes infrastructure, reducing node instances by 57% through k6 load tests, resulting in significant cost savings.
-- Led the migration of on-prem PostgreSQL databases to CloudSQL, improving latency by 20% and system performance.
-- Streamlined post-deployment activities and system monitoring with custom Python scripts, increasing
-operational efficiency.
-- Automated CI/CD pipelines using GitHub Actions, integrating builds, artifact storage in Artifact Registry,and deployments with no manual intervention.
-- Automated Kubernetes deployments with advanced rollout strategies, ensuring container orchestration stability and scalability.
-- Automated infrastructure provisioning and project structuring with Terraform and Terraform modules, increasing deployment efficiency by 20%.
+- Industrial confusion & inconviencience engineering
+- Force push and pray
+- verose abstraction (in the general sense as it applies to cubic regression)
+- liquification
+- analytical analysis
+- Worms (no bones, all vibes)
 
 ## Education
 
