@@ -4,8 +4,7 @@ Welcome to the `donepuchie` repository!
 
 ## "Professional Experience"
 
-Director of dynamic orchestration for distributed systems deployment and telemetry analysis as it applies to heuristic team integration and efficient infrastructure design practices through the Open Delivery Foundation. Former head of configuration minutiae at the Global Foundation of Situational Infrastructure Dependence and Declarative Pipeline Analysis.
-Lead team lead at DevOpsCorp.
+I'm a DevOps and infrastructure automation engineer passionate about building scalable systems using Terraform, CI/CD pipelines, and cloud-native technologies (GCP, Docker, Kubernetes).
 
 ###  What I Do
 
